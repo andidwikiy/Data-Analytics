@@ -10,4 +10,4 @@ Hi! Welcome to my data analytics project portfolio. You can see the details of e
 ## Python Project
 ### [Project 1: E Commerce Sales Analysis](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
 ## Visualization Project
-### [Project 1: Data Visualization](https://github.com/andidwikiy/Data_Visualization.git)
+### [Project 1: Tableau Public Profile](https://github.com/andidwikiy/Data_Visualization.git)
