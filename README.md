@@ -14,6 +14,7 @@ Hi! Welcome to my data analytics project portfolio. You can see the details of e
 ### [Project 2: Powerplant Optimization](https://github.com/andidwikiy/Powerplant-Optimization.git)
 **Project description:** This project is a linear programming problem with the primary objective of determining the most efficient combination of different types of generators, taking into account factors such as fuel costs, operation and maintenance costs, capital costs, and other relevant considerations.
 **Skills:** Linear Programming, Pulp, GAMS.
+
 ## Visualization Project
 ### [Project 1: Tableau Public Profile](https://github.com/andidwikiy/Data_Visualization.git)
 **Project description:**
