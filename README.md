@@ -10,7 +10,9 @@ Hi! Welcome to my data analytics project portfolio. You can see the details of e
 ## Python Project
 ### [Project 1: E Commerce Sales Analysis](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
 **Project description:**
+
 **Skills:** 
+
 ### [Project 2: Powerplant Optimization](https://github.com/andidwikiy/Powerplant-Optimization.git)
 **Project description:** This project is a linear programming problem with the primary objective of determining the most efficient combination of different types of generators, taking into account factors such as fuel costs, operation and maintenance costs, capital costs, and other relevant considerations.
 
@@ -19,4 +21,5 @@ Hi! Welcome to my data analytics project portfolio. You can see the details of e
 ## Visualization Project
 ### [Project 1: Tableau Public Profile](https://github.com/andidwikiy/Data_Visualization.git)
 **Project description:**
+
 **Skills:**
