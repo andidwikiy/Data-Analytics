@@ -8,7 +8,7 @@ Hello! Welcome to my data analytics project portfolio. You can see the details o
 **Skills:** Complex Joins, Aggregations, Grouping, and Subqueries.
 
 ## Python Project
-### [Project 1: E Commerce Sales Analysis](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
+### [Project 1: E Commerce Sales](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
 **Project description:**
 
 **Skills:** 
