@@ -9,9 +9,9 @@ Hello! Welcome to my data analytics project portfolio. You can see the details o
 
 ## Python Project
 ### [Project 1: E Commerce Sales](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
-**Project description:**
+**Project description:** In this project, the code performs two main tasks using an e-commerce sales dataset. First, it analyzes product categories to calculate product counts, average review scores, total reviews, and monthly sales. The data is grouped by category, metrics are computed, and results are visualized with bar graphs. Second, the code classifies products into 'Regular', 'Middle', and 'Luxury' price categories based on their price. It then counts items in each classification, visualizes this distribution with stacked bar charts, and analyzes monthly sales trends for each classification.
 
-**Skills:** 
+**Skills:** Data Manipulation, Aggregation, Classification, Visualization, Pandas, Matplotlib, Seaborn.
 
 ### [Project 2: Powerplant Optimization](https://github.com/andidwikiy/Powerplant-Optimization.git)
 **Project description:** This project involves a linear programming problem aimed at determining the most efficient combination of different types of generators. It includes a mathematical formulation of the system, considering factors such as fuel costs, operation and maintenance costs, capital costs, and other relevant considerations.
