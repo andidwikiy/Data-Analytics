@@ -20,7 +20,7 @@ Hello! Welcome to my data analytics project portfolio. You can see the details o
 ### [Project 2: Powerplant Optimization](https://github.com/andidwikiy/Powerplant-Optimization.git)
 **code:** [`optimization1.py`](https://github.com/andidwikiy/Powerplant-Optimization/blob/ede87d9416dea7d05b61aa0eed708b654a19d1e7/Optimization_Problem/optimization1.py),[`GAMS_code_1`](https://github.com/andidwikiy/Powerplant-Optimization/blob/3e9a6fc84a4ecda7ea63db24b45c1643757b71d6/Optimization_Problem_2/ScenarioA.gms),[`GAMS_code_2`](https://github.com/andidwikiy/Powerplant-Optimization/blob/ede87d9416dea7d05b61aa0eed708b654a19d1e7/Optimization_Problem_2/ScenarioB.gms),[`GAMS_code_3`](https://github.com/andidwikiy/Powerplant-Optimization/blob/ede87d9416dea7d05b61aa0eed708b654a19d1e7/Optimization_Problem_2/ScenarioB2.gms)
 
-**Project description:** This project involves a linear programming problem aimed at determining the most efficient combination of different types of generators. It includes a mathematical formulation of the system, considering factors such as fuel costs, operation and maintenance costs, capital costs, and other relevant considerations.
+**Project description:** In this project there are 2 optimization project using python and GAMS involving linear programming problems aimed at determining the most efficient combination of different types of generators. It includes a mathematical formulation of the system, considering factors such as fuel costs, operation and maintenance costs, capital costs, and other relevant considerations.
 
 **Skills:** Linear Programming, Pulp, GAMS.
 
