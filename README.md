@@ -11,7 +11,7 @@ Hello! Welcome to my data analytics project portfolio. Full documentation of eac
 
 ## Python Project
 ### [Project 1: E Commerce Sales](https://github.com/andidwikiy/E_commerce_sales_analysis.git)
-**code:** [`E_commerce_analysis.ipynb`](https://github.com/andidwikiy/E_commerce_sales/blob/db0e27ce7a95cc637fed277517350a675ef8f8c9/E_commerce_analysis.ipynb)
+**code:** [`E_commerce_analysis.ipynb`](https://github.com/andidwikiy/E_commerce_sales/blob/c3eea75b6436a9bb040c53a4799cc58bddf4f647/E_commerce_analysis.ipynb)
 
 **Project description:** In this project, the code performs two main tasks using an e-commerce sales dataset. First, it analyzes product categories to calculate product counts, average review scores, total reviews, and monthly sales. The data is grouped by category, metrics are computed, and results are visualized with bar graphs. Second, the code classifies products into 'Regular', 'Middle', and 'Luxury' price categories based on their price. It then counts items in each classification, visualizes this distribution with stacked bar charts, and analyzes monthly sales trends for each classification.
 
