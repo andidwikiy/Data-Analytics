@@ -1,5 +1,5 @@
 # Data-Analytics-Projects
-Hi! Welcome to my data analytics project portfolio. You can see the details of each project, including the code and data, by clicking the project name.
+Hello! Welcome to my data analytics project portfolio. You can see the details of each project, including the code and data, by clicking the project name.
 
 ## SQL Project
 ### [Project 1: Maven Movies Rental Company](https://github.com/andidwikiy/Maven-movies-rental-company.git)
