@@ -25,7 +25,12 @@ Hello! Welcome to my data analytics project portfolio. Full documentation of eac
 **Skills:** Linear Programming, Pulp, GAMS.
 
 ## Visualization Project (Dashboard)
-### [Project 1: British Airlines Review](https://public.tableau.com/app/profile/andidwikiy/viz/Book1_17218875709950/Dashboard1)
+### [Project 1: E Commerce Performance Analysis](https://public.tableau.com/app/profile/andidwikiy/viz/Ecommerce_17220806572950/Dashboard1?publish=yes)
+**Project description:**
+
+**Skills:** Tableau
+
+### [Project 2: British Airlines Review](https://public.tableau.com/app/profile/andidwikiy/viz/Book1_17218875709950/Dashboard1)
 **Project description:**
 
 **Skills:** Tableau
