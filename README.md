@@ -36,6 +36,6 @@ Please click the visualization name to interact with the dashboard.
 ### [Visualization 2: British Airlines Review](https://public.tableau.com/app/profile/andidwikiy/viz/Book1_17218875709950/Dashboard1)
 **File:** [`British Airline Review Visualization copy.twb`](https://github.com/andidwikiy/Data_Visualization/blob/fa94d92ba8187858def035b6a9c781808a96e668/British%20Airline%20Tableau/British%20Airline%20Review%20Visualization%20copy.twb)
 
-**Project description:**
+**Project description:** This British Airways Review dashboard provides a comprehensive analysis of customer feedback on cabin staff service. It features interactive filters for traveller type, continent, aircraft group, seat type, metrics, and date range, allowing users to customize their view and drill down into specific data points. The dashboard includes a world map showing average cabin staff service ratings by country, a line chart tracking service ratings over time from March 2016 to October 2023, and bar charts detailing service ratings by different aircraft models and the number of reviews for each. Summary metrics at the bottom provide an overview of key performance indicators such as overall rating, cabin staff service, entertainment, food and beverages, ground service, seat comfort, and value for money. This tool is essential for understanding and improving the passenger experience by identifying trends and areas for enhancement in cabin staff performance.
 
 **Skills:** Tableau
